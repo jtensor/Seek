@@ -1,0 +1,39 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin-top: 200px;
+}
+
+.box{
+	border-radius: 1px;
+	border: 2px solid #000000;
+	background-color: #FFFFFF;
+	height: 30px;
+	width: 320px;
+	margin-top:300px;
+}
+div {
+	border-radius: 1px;
+	border: 2px solid #000000;
+	background-color: #D1D0CE;
+	height: 30px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+	
+	font-family: Verdana, sans-serif;
+	
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #000000;
+	vertical-align: middle;
+}
